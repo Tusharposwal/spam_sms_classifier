@@ -2,7 +2,7 @@
 
 This is a NLP based web application that detects if a message is **Spam** or **Not Spam**. It is built using **Streamlit** and deployed at the following link:
 
-👉 **[Link](https://spamdetector1.streamlit.app/)**
+👉 **[Link](https://spamsmsclassifier1.streamlit.app/)**
 
 ## Features
 
@@ -20,7 +20,7 @@ This is a NLP based web application that detects if a message is **Spam** or **N
 
 ## Usage
 
-1. Open the [live demo link](https://spamdetector1.streamlit.app/).
+1. Open the [live demo link](https://spamsmsclassifier1.streamlit.app/).
 2. Type a message in the input box.
 3. Click **Predict** to check if the message is spam.
 4. View the result displayed below the input.
